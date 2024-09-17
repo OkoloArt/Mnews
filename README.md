@@ -66,9 +66,10 @@ The app handles various states:
 - **Empty**: An empty state message is shown if no articles are available or no bookmarks are saved.
 
 ## Screenshots
-| News Screen | Bookmark Screen | News Detail Screen |
-| --- | --- | --- |
-| ![News Screen](path_to_screenshot) | ![Bookmark Screen](path_to_screenshot) | ![News Detail Screen](path_to_screenshot) |
+| News Screen | Bookmark Screen | News Detail Screen | Splash Screen
+| --- | --- | --- | --- |
+| ![News Screen](https://github.com/user-attachments/assets/03a075a6-d7bb-4bb5-91df-9d6e19c304b6) | ![Bookmark Screen](https://github.com/user-attachments/assets/0029141b-fb53-427e-9018-d40db3a78ec6) | ![News Detail Screen](https://github.com/user-attachments/assets/d0c1a2e1-2ce9-4154-8218-638663014f5b) | ![splash](https://github.com/user-attachments/assets/3bcc4a8e-8bba-4d8c-8df9-b096b7bc808e)
 
-## How to Run
+
+## Video
 
