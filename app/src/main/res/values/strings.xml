@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Mnews</string>
+    <string name="title_home">Home</string>
+    <string name="title_bookmark">Bookmarks</string>
+    <string name="placeholder_title">Where Will Polestar Automotive Stock Be in 3 Years?</string>
+    <string name="placeholder_description">Elon Musk Has Secret Service-Like Security Team That Calls Him \'Voyager:\' Growing Threats After Tesla Austin Factory Scare Have Led To The Richest Man In The World Leading An Increasingly Isolated Lifestyle Benzinga\nInside Elon Musk’s Mushrooming Security App…</string>
+    <string name="placeholder_source_name">Yahoo Entertainment</string>
+    <string name="placeholder_date">Feb 27, 2023</string>
+    <string name="text_home">Breaking News</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content_description">news_image</string>
+    <string name="author_name">Ines Ferré</string>
+    <string name="bookmark_button">bookmark_button</string>
+    <string name="error_text">Something went wrong, Check your connection and try again</string>
+    <string name="try_again">Try again</string>
+    <string name="empty_news">No bookmarked news</string>
+</resources>
