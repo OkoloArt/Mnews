@@ -9,7 +9,7 @@ This is a simple Android app that displays news articles fetched from a News API
 - [UI Design](#ui-design)
 - [State Management](#state-management)
 - [Screenshots](#screenshots)
-- [How to Run](#how-to-run)
+- [Video](#video)
 
 ## Features
 
@@ -68,8 +68,10 @@ The app handles various states:
 ## Screenshots
 | News Screen | Bookmark Screen | News Detail Screen | Splash Screen
 | --- | --- | --- | --- |
-| ![News Screen](https://github.com/user-attachments/assets/03a075a6-d7bb-4bb5-91df-9d6e19c304b6) | ![Bookmark Screen](https://github.com/user-attachments/assets/0029141b-fb53-427e-9018-d40db3a78ec6) | ![News Detail Screen](https://github.com/user-attachments/assets/d0c1a2e1-2ce9-4154-8218-638663014f5b) | ![splash](https://github.com/user-attachments/assets/3bcc4a8e-8bba-4d8c-8df9-b096b7bc808e)
+| ![News Screen](https://github.com/user-attachments/assets/632d1bf4-0863-4a33-983e-136367cfd92c) | ![Bookmark Screen](https://github.com/user-attachments/assets/b19e610f-5811-4f2b-8bb1-3d5c8faac9fe) | ![News Detail Screen](https://github.com/user-attachments/assets/d81a236a-cf74-47cd-afad-2eaf0366927b) | ![splash](https://github.com/user-attachments/assets/3bcc4a8e-8bba-4d8c-8df9-b096b7bc808e)
 
 
 ## Video
+https://github.com/user-attachments/assets/becca7a3-9c08-4cd9-a72f-b0eac9701e71
+
 
