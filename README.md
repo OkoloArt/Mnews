@@ -2,6 +2,8 @@
 
 This is a simple Android app that displays news articles fetched from a News API. Users can view the latest news, bookmark their favorite articles, and view them later in offline mode. The app has two primary sections: **News** and **Bookmarks**, both accessible through a bottom navigation UI.
 
+> Live demo [_Mnews_](https://appetize.io/app/b_tga62des2mmc35jdebjhnbh4my). 
+
 ## Table of Contents
 - [Features](#features)
 - [Tech Stack](#tech-stack)
@@ -47,7 +49,7 @@ This is a simple Android app that displays news articles fetched from a News API
 - **Retrofit**: For fetching news articles from the News API.
 - **Room Database**: To store bookmarked news articles locally for offline viewing.
 - **Picasso**: To load and display images in the news cards.
-- **LiveData**: For observing data changes and managing state.
+- **LiveData & StateFlow**: For observing data changes and managing state.
 - **ViewModel**: To separate the UI logic from business logic and ensure the app handles configuration changes effectively.
 - **Coroutines**: For managing asynchronous tasks like API calls and database operations.
 - **Lottie**: For animations.
